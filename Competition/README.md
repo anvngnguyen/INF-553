@@ -16,11 +16,11 @@ effect on the accuracy
 
 
 Error Distribution:
->=0 and <1: 101748
->=1 and <2: 33377
->=2 and <3: 6164
->=3 and <4: 755
->=4: 0
+\>=0 and \<1: 101748
+\>=1 and \<2: 33377
+\>=2 and \<3: 6164
+\>=3 and \<4: 755
+\>=4: 0
 
 RMSE:
 0.980480954974841
